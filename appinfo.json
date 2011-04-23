@@ -1,0 +1,9 @@
+{
+	"id": "com.alexhaefner.chainrxn",
+	"version": "2.0.2",
+	"vendor": "Alex Haefner",
+	"type": "web",
+	"main": "index.html",
+	"title": "Critical Mass",
+	"icon": "icon.png"
+}
